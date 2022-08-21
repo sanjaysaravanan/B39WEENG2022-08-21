@@ -1,0 +1,28 @@
+Topics:
+
+  Bit more complex obj/arr destructure
+
+  Hoisting
+    Feature in js where declaration/definition are moved to the top of the global scope
+
+    function will be hoisted and it is given the first preferenc in hoisting
+
+    var will be hoisted with undefined as value
+
+    let, const cannot be hoisted
+
+  API: ---> Application Programming Interface
+    JSON --> Javascript Object Notation
+    REST API ---> Representational State Trasnfer API
+
+    XMLHTTPRequest
+    Rest Countries
+
+  Usefull Array Methods:
+    Map
+    Reduce
+    Filter
+
+  
+
+   
