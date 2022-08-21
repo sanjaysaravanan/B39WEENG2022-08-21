@@ -18,11 +18,13 @@ Topics:
     XMLHTTPRequest
     Rest Countries
 
-  Usefull Array Methods:
-    Map
-    Reduce
-    Filter
+  Object Comparison Problem:
+    const arr = [{ name: 'Sanjay', marks: 100}, { marks: 100, name: 'Sanjay', }];
+    step 1
+      use for in ....
+    step 2 
+    take the key of one object compare the values of both with that key check for equality and decide whther both are same
 
-  
+      obj1["name"] === obj2['name']
 
    
